@@ -33,11 +33,6 @@
   <img src="https://img.shields.io/badge/Antigravity-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" />
 </p>
 
-*(Или вариант с минималистичными иконками)*:
-* <img src="https://cdn.simpleicons.org/opencode" width="18" height="18" align="center" /> **OpenCode**
-* <img src="https://cdn.simpleicons.org/deepseek" width="18" height="18" align="center" /> **FreeBuff**
-* <img src="https://cdn.simpleicons.org/googlegemini" width="18" height="18" align="center" /> **Antigravity**
-
 ---
 
 ### 💻 My Device
