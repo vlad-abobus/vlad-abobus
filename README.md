@@ -96,7 +96,7 @@
     <!-- Проект 1: MikuGPT0 -->
     <td width="1000" valign="top" align="center">
       <h4>
-        <a href="https://github.com/vlad-abobus/MikuGPT0">🎤 MikuGPT0</a>
+        <a href="https://github.com/vlad-abobus/MikuGPT0">MikuGPT</a>
       </h4>
       <p align="center">Desktop Miku - virtual waify) </p>
       <p align="center">
