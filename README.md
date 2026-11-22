@@ -89,16 +89,44 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">Featured Projects</h3>
-<!-- ⚠️ ЗАМЕНИ "REPO_NAME_1" и "REPO_NAME_2" НА ТОЧНЫЕ НАЗВАНИЯ ТВОИХ РЕПОЗИТОРИЕВ НА GITHUB -->
-<p align="center">
-  <a href="https://github.com/vlad-abobus/REPO_NAME_1">
-    <img src="https://github-stats-psiyavushs-projects.vercel.app/api/pin/?username=vlad-abobus&repo=MikuGPT0&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/vlad-abobus/REPO_NAME_2">
-    <img src="https://github-stats-psiyavushs-projects.vercel.app/api/pin/?username=vlad-abobus&repo=postbyte&theme=radical" alt="Project 2" />
-  </a>
-</p>
+<h3 align="center">⭐ Featured Projects</h3>
+
+<table>
+  <tr>
+    <!-- Проект 1: MikuGPT0 -->
+    <td width="1000" valign="top" align="center">
+      <h4>
+        <a href="https://github.com/vlad-abobus/MikuGPT0">🎤 MikuGPT0</a>
+      </h4>
+      <p align="center">Твоя настольная Мику — виртуальный ИИ-ассистент</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/github/stars/vlad-abobus/MikuGPT0?style=for-the-badge&logo=github&color=fe428e&labelColor=141321" alt="Stars" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/vlad-abobus/MikuGPT0">
+          <img src="https://img.shields.io/badge/View_Repository-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Open" />
+        </a>
+      </p>
+    </td>
+    <!-- Проект 2: postbyte -->
+    <td width="1000" valign="top" align="center">
+      <h4>
+        <a href="https://github.com/vlad-abobus/postbyte">💬 postbyte</a>
+      </h4>
+      <p align="center">Современная веб-платформа и форум для общения</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/github/stars/vlad-abobus/postbyte?style=for-the-badge&logo=github&color=fe428e&labelColor=141321" alt="Stars" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/vlad-abobus/postbyte">
+          <img src="https://img.shields.io/badge/View_Repository-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Open" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
