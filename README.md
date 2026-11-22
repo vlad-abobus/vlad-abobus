@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Vibecode_ART-ff007f?style=for-the-badge&logo=artstation&logoColor=white" alt="Vibecode ART" />
   <img src="https://img.shields.io/badge/Programming_Student-36BCF7?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Programming Student" />
   <img src="https://img.shields.io/badge/GameDev-8A2BE2?style=for-the-badge&logo=steam&logoColor=white" alt="GameDev" />
-  <img src="https://img.shields.io/badge/From-Ukraine-0057B7?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukraine" />
+  
 </p>
 
 <!-- Счетчик просмотров профиля -->
