@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td width="1000" valign="center" align="center">
-      <h4 align="center">🗣 Spoken Languages</h4>
+      <h4 align="center">Spoken Languages</h4>
       <p align="center">
        <!-- 1. Украинский - Native (Зеленый) -->
 <img src="https://img.shields.io/badge/Ukrainian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukrainian" /><br/>
@@ -44,7 +44,7 @@
       </p>
     </td>
     <td width="1000" valign="center" align="center">
-      <h4 align="center">🛠 Tech Stack & Tools</h4>
+      <h4 align="center">Tech Stack & Tools</h4>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=py,godot,unity,html,css&theme=dark" alt="Tech Stack" />
       </p>
@@ -54,7 +54,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">🤖 My Coding Agents</h3>
+<h3 align="center">Coding Agents</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCode-181717?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
@@ -66,7 +66,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">💻 My Device</h3>
+<h3 align="center">Device</h3>
 
 <table>
   <tr>
@@ -89,20 +89,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">⭐ Featured Projects</h3>
+<h3 align="center">Featured Projects</h3>
 <!-- ⚠️ ЗАМЕНИ "REPO_NAME_1" и "REPO_NAME_2" НА ТОЧНЫЕ НАЗВАНИЯ ТВОИХ РЕПОЗИТОРИЕВ НА GITHUB -->
 <p align="center">
   <a href="https://github.com/vlad-abobus/REPO_NAME_1">
-    <img src="https://github-stats-psiyavushs-projects.vercel.app/api/pin/?username=vlad-abobus&repo=REPO_NAME_1&theme=radical" alt="Project 1" />
+    <img src="https://github-stats-psiyavushs-projects.vercel.app/api/pin/?username=vlad-abobus&repo=MikuGPT0&theme=radical" alt="Project 1" />
   </a>
   <a href="https://github.com/vlad-abobus/REPO_NAME_2">
-    <img src="https://github-stats-psiyavushs-projects.vercel.app/api/pin/?username=vlad-abobus&repo=REPO_NAME_2&theme=radical" alt="Project 2" />
+    <img src="https://github-stats-psiyavushs-projects.vercel.app/api/pin/?username=vlad-abobus&repo=postbyte&theme=radical" alt="Project 2" />
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">📊 My GitHub Stats & Streak</h3>
+<h3 align="center">My GitHub Stats & Streak</h3>
 
 <p align="center">
   <img height="185" src="https://github-stats-psiyavushs-projects.vercel.app/api?username=vlad-abobus&show_icons=true&theme=radical&locale=ru" alt="GitHub Stats" />
