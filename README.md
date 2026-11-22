@@ -35,12 +35,12 @@
     <td width="1000" valign="center" align="center">
       <h4 align="center">🗣 Spoken Languages</h4>
       <p align="center">
-        <!-- 1. Украинский - Native -->
-        <img src="https://img.shields.io/badge/Ukrainian-Native-0057B7?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukrainian" /><br/>
-        <!-- 2. Русский - Native (Триколор) -->
-        <img src="https://img.shields.io/badge/Russian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjRDUyQjFFIi8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNTMzIiBmaWxsPSIjMDAzNUE2Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjY2IiBmaWxsPSIjRkZGRkZGIi8+PC9zdmc+" alt="Russian" /><br/>
-        <!-- 3. Английский - Spoken (Флаг Великобритании / Англии) -->
-        <img src="https://img.shields.io/badge/English-Spoken-1f6feb?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAgMGw2MCAzME02MCAwbC02MCAzMCIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMCwwTDYwLDMwTTYwLDBMMCwzMCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNiIvPjwvc3ZnPg==" alt="English" />
+       <!-- 1. Украинский - Native (Зеленый) -->
+<img src="https://img.shields.io/badge/Ukrainian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukrainian" /><br/>
+<!-- 2. Русский - Native (Зеленый + рабочий Триколор) -->
+<img src="https://img.shields.io/badge/Russian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjRDUyQjFFIi8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNTMzIiBmaWxsPSIjMDAzNUE2Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjY2IiBmaWxsPSIjRkZGRkZGIi8+PC9zdmc+" alt="Russian" /><br/>
+<!-- 3. Английский - Spoken (Синий) -->
+<img src="https://img.shields.io/badge/English-Spoken-1f6feb?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAgMGw2MCAzME02MCAwbC02MCAzMCIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMCwwTDYwLDMwTTYwLDBMMCwzMCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNiIvPjwvc3ZnPg%3D%3D" alt="English" />
       </p>
     </td>
     <td width="1000" valign="center" align="center">
