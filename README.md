@@ -1,24 +1,71 @@
-<h1 align="center">Hi there, I'm Vladislav !<a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg) # впиши сюда Vibecode ART , Programming sudent and GameDev from Ukraine 🇺🇦
+<h1 align="center">
+  Hi there, I'm Vladislav! 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-Was working with https://cdn.simpleicons.org/python https://cdn.simpleicons.org/godotengine https://cdn.simpleicons.org/unity https://cdn.simpleicons.org/html5 https://cdn.simpleicons.org/css 
-
-My device - Lenovo LOQ 15 83JH000JUS
-- 13th Gen Intel(R) Core(TM) i5-13450HX
-- 12 GB DDR4
-- RTX 5050M
-https://content.rozetka.com.ua/goods/images/big/638356158.jpg
-<svg fill="#E2231A" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Lenovo</title><path d="M21.044 12.288c0 .5-.343.867-.815.867-.464 0-.827-.38-.827-.867 0-.51.343-.868.815-.868.464 0 .827.381.827.868zm-14.305-.92a.787.787 0 0 0-.651.307.991.991 0 0 0-.172.738l1.479-.614a.708.708 0 0 0-.656-.43zm6.963.052c-.472 0-.816.358-.816.868 0 .486.364.867.828.867.472 0 .815-.368.815-.867 0-.487-.363-.868-.827-.868zM24 7.997v8.006H0V7.997h24zM5.01 13.05H3.088V9.825H2.23v4.003h2.78v-.777zm1.137-.094l2.163-.897a1.667 1.667 0 0 0-.37-.86c-.284-.33-.704-.505-1.216-.505-.931 0-1.633.686-1.633 1.593 0 .93.704 1.593 1.726 1.593.572 0 1.158-.272 1.432-.589l-.535-.411c-.357.264-.56.326-.885.326-.292 0-.52-.09-.682-.25zm5.57-1.039c0-.709-.507-1.223-1.252-1.223a1.28 1.28 0 0 0-1.005.494v-.442h-.846v3.081h.846v-1.753c0-.316.245-.651.698-.651.35 0 .712.243.712.651v1.753h.847v-1.91zm3.647.37c0-.904-.725-1.593-1.65-1.593-.933 0-1.663.7-1.663 1.593 0 .903.726 1.592 1.651 1.592.932 0 1.662-.7 1.662-1.592zm2.066 1.54l1.268-3.081h-.967l-.765 2.099-.765-2.1h-.966l1.268 3.081h.927zm4.449-1.54c0-.904-.725-1.593-1.65-1.593-.932 0-1.662.7-1.662 1.593 0 .903.725 1.592 1.65 1.592.932 0 1.662-.7 1.662-1.592z"/></svg>
-
-My coding agents
-- OpenCode https://cdn.simpleicons.org/opencode 
-- FreeBuff https://cdn.simpleicons.org/deepseek
-- Antigravity https://cdn.simpleicons.org/googlegemini
-
-My stats -
 <p align="center">
-  <img height="180" src="https://github-stats-psiyavushs-projects.vercel.app/api?username=vlad-abobus&show_icons=true&theme=radical&locale=ru" />
-  <img height="180" src="https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=vlad-abobus&layout=compact&theme=radical&locale=ru" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Vibecode+ART;Programming+student;GameDev+from+Ukraine+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
+  </a>
 </p>
 
+---
+
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/godotengine" alt="Godot Engine" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" alt="Unity" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="40" height="40"/>
+</p>
+
+---
+
+### 🤖 My Coding Agents
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCode-181717?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/FreeBuff-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="FreeBuff" />
+  <img src="https://img.shields.io/badge/Antigravity-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" />
+</p>
+
+*(Или вариант с минималистичными иконками)*:
+* <img src="https://cdn.simpleicons.org/opencode" width="18" height="18" align="center" /> **OpenCode**
+* <img src="https://cdn.simpleicons.org/deepseek" width="18" height="18" align="center" /> **FreeBuff**
+* <img src="https://cdn.simpleicons.org/googlegemini" width="18" height="18" align="center" /> **Antigravity**
+
+---
+
+### 💻 My Device
+
+<table>
+  <tr>
+    <td valign="center" width="60%">
+      <h4>
+        <img src="https://cdn.simpleicons.org/lenovo/E2231A" width="60" align="center" alt="Lenovo"/> 
+        &nbsp;LOQ 15 (83JH000JUS)
+      </h4>
+      <ul>
+        <li><b>CPU:</b> 13th Gen Intel® Core™ i5-13450HX</li>
+        <li><b>GPU:</b> NVIDIA GeForce RTX 5050M</li>
+        <li><b>RAM:</b> 12 GB DDR4</li>
+      </ul>
+    </td>
+    <td valign="center" align="center" width="40%">
+      <img src="https://content.rozetka.com.ua/goods/images/big/638356158.jpg" width="220" alt="Lenovo LOQ 15" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-stats-psiyavushs-projects.vercel.app/api?username=vlad-abobus&show_icons=true&theme=radical&locale=ru" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=vlad-abobus&layout=compact&theme=radical&locale=ru" alt="Top Languages" />
+</p>
