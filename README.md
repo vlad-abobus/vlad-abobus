@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- Бейджи специальностей с четкими векторными иконками вместо мыльных эмодзи -->
+<!-- Бейджи специальностей -->
 <p align="center">
   <img src="https://img.shields.io/badge/Vibecode_ART-ff007f?style=for-the-badge&logo=artstation&logoColor=white" alt="Vibecode ART" />
   <img src="https://img.shields.io/badge/Programming_Student-36BCF7?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Programming Student" />
@@ -30,15 +30,17 @@
   Spoken Languages & Tech Stack
 </h3>
 
-<!-- Таблица на 100% ширины для идеальной центровки в GitHub -->
 <table>
   <tr>
     <td width="1000" valign="center" align="center">
       <h4 align="center">🗣 Spoken Languages</h4>
       <p align="center">
+        <!-- 1. Украинский - Native -->
         <img src="https://img.shields.io/badge/Ukrainian-Native-0057B7?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukrainian" /><br/>
-        <img src="https://img.shields.io/badge/English-Spoken-1f6feb?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI+PHJlY3Qgd2lkdGg9IjMwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjQjIyMjM0Ii8+PHBhdGggZD0iTTAgM2gzME0wIDdoMzBNMCAxMWgzME0wIDE1aDMwTTAgMTloMzAiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSIxLjUiLz48cmVjdCB3aWR0aD0iMTQiIGhlaWdodD0iMTEiIGZpbGw9IiMzQzNCNkUiLz48L3N2Zz4=" alt="English" /><br/>
-        <img src="https://img.shields.io/badge/Russian-Fluent-2ea44f?style=for-the-badge&labelColor=22272e&logo=googletranslate&logoColor=white" alt="Russian" />
+        <!-- 2. Русский - Native (Триколор) -->
+        <img src="https://img.shields.io/badge/Russian-Native-0057B7?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5IDYiPjxyZWN0IHdpZHRoPSI5IiBoZWlnaHQ9IjIiIGZpbGw9IiNmZmYiLz48cmVjdCB5PSIyIiB3aWR0aD0iOSIgaGVpZ2h0PSIyIiBmaWxsPSIjMDAzOWEEIi8+PHJlY3QgeT0iNCIgd2lkdGg9IjkiIGhlaWdodD0iMiIgZmlsbD0iI2Q1MmIxZSIvPjwvc3ZnPg==" alt="Russian" /><br/>
+        <!-- 3. Английский - Spoken (Флаг Великобритании / Англии) -->
+        <img src="https://img.shields.io/badge/English-Spoken-1f6feb?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAgMGw2MCAzME02MCAwbC02MCAzMCIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMCwwTDYwLDMwTTYwLDBMMCwzMCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNiIvPjwvc3ZnPg==" alt="English" />
       </p>
     </td>
     <td width="1000" valign="center" align="center">
@@ -100,14 +102,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vlad-abobus&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <h3 align="center">📊 My GitHub Stats & Streak</h3>
 
 <p align="center">
@@ -117,6 +111,11 @@
 
 <p align="center">
   <img height="185" src="https://streak-stats.demolab.com?user=vlad-abobus&theme=radical&locale=ru&border_radius=5" alt="GitHub Streak" />
+</p>
+
+<!-- Вместо упавшего сервера Трофеев — рабочий плагин детальной статистики профиля в стиле Radical -->
+<p align="center">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlad-abobus&theme=radical" alt="Profile Details" />
 </p>
 
 <p align="center">
