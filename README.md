@@ -21,7 +21,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" height="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/css" alt="CSS" width="40" height="40"/>
 </p>
 
 ---
