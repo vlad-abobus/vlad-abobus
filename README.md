@@ -112,7 +112,7 @@
     <!-- Проект 2: postbyte -->
     <td width="1000" valign="top" align="center">
       <h4>
-        <a href="https://github.com/vlad-abobus/postbyte">postbyte</a>
+        <a href="https://github.com/vlad-abobus/postbyte">AnyWhere</a>
       </h4>
       <p align="center">Forum. Kind of like 4chan</p>
       <p align="center">
