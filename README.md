@@ -51,7 +51,7 @@
       </ul>
     </td>
     <td valign="center" align="center" width="40%">
-      <img src="https://kommodo.ai/i/o8lxd0u05ipTVE84Qa63" width="220" alt="Lenovo LOQ 15" style="border-radius: 10px;"/>
+      <img src="image-removebg-preview.png" width="220" alt="Lenovo LOQ 15" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
