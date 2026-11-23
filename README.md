@@ -21,26 +21,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- БЛОК О СЕБЕ + МЕСТО ДЛЯ ТВОЕЙ ГИФКИ -->
+<!-- БЛОК О СЕБЕ (БЕЗ ГИФКИ, ЯЗЫКИ СТРОГО В ОДИН РЯД) -->
 <table>
   <tr>
-    <td width="1100" valign="center">
-      <h3>👋 A little bit about me:</h3>
-      <ul>
-        <li>💻 Passionate about <b>Web Development</b>, <b>GameDev</b>, and building smart <b>Telegram Bots</b>.</li>
-        <li>🤖 Experimenting with <b>AI / LLM integrations</b> (OpenAI, Gemini, g4f) and Vibecoding.</li>
-        <li>🚀 Always learning new technologies and creating cool pet-projects.</li>
-      </ul>
-      <p align="left">
-        &nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Ukrainian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukrainian" />
-        <img src="https://img.shields.io/badge/Russian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjRDUyQjFFIi8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNTMzIiBmaWxsPSIjMDAzNUE2Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjY2IiBmaWxsPSIjRkZGRkZGIi8+PC9zdmc+" alt="Russian" />
-        <img src="https://img.shields.io/badge/English-Spoken-1f6feb?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAgMGw2MCAzME02MCAwbC02MCAzMCIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMCwwTDYwLDMwTTYwLDBMMCwzMCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNiIvPjwvc3ZnPg%3D%3D" alt="English" />
+    <td width="2000" valign="center" align="center">
+      <h3 align="center">👋 A little bit about me</h3>
+      <p align="center">
+        💻 Passionate about <b>Web Development</b>, <b>GameDev</b>, and building smart <b>Telegram Bots</b>.<br/>
+        🤖 Experimenting with <b>AI / LLM integrations</b> (OpenAI, Gemini, g4f) and Vibecoding.<br/>
+        🚀 Always learning new technologies and creating cool pet-projects.
       </p>
-    </td>
-    <!-- 👇 МЕСТО ДЛЯ ТВОЕЙ ГИФКИ (замени ссылку в src="..." на свою гифку!) 👇 -->
-    <td width="700" valign="center" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px;" alt="Coding GIF" />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Ukrainian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukrainian" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Russian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjRDUyQjFFIi8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNTMzIiBmaWxsPSIjMDAzNUE2Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjY2IiBmaWxsPSIjRkZGRkZGIi8+PC9zdmc+" alt="Russian" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/English-Spoken-1f6feb?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAgMGw2MCAzME02MCAwbC02MCAzMCIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMCwwTDYwLDMwTTYwLDBMMCwzMCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNiIvPjwvc3ZnPg%3D%3D" alt="English" />
+      </p>
     </td>
   </tr>
 </table>
