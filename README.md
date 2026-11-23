@@ -4,9 +4,10 @@
 </h1>
 
 <!-- Анимация текста -->
+<!-- Анимация текста -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=10000&color=36BCF7&center=true&vCenter=true&repeat=false&width=850&lines=Vibecode+ART+%7C+Programming+Student+%7C+GameDev+from+Ukraine" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=10000&color=36BCF7&center=true&vCenter=true&repeat=false&width=850&lines=Vibecode+ART+%7C+Programming+Student+%7C+GameDev+%7C+From+Ukraine" alt="Typing SVG" />
   </a>
 </p>
 
