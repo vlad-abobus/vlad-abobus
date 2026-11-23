@@ -25,11 +25,11 @@
 <table>
   <tr>
     <td width="2000" valign="center" align="center">
-      <h3 align="center">👋 A little bit about me</h3>
+      <h3 align="center"> A little bit about me</h3>
       <p align="center">
-        💻 Passionate about <b>Web Development</b>, <b>GameDev</b>, and building smart <b>Telegram Bots</b>.<br/>
-        🤖 Experimenting with <b>AI / LLM integrations</b> (OpenAI, Gemini, g4f) and Vibecoding.<br/>
-        🚀 Always learning new technologies and creating cool pet-projects.
+        Passionate about <b>Web Development</b>, <b>GameDev</b>, and building smart <b>Telegram Bots</b>.<br/>
+        Experimenting with <b>AI / LLM integrations</b> (OpenAI, Gemini, g4f) and Vibecoding.<br/>
+        Always learning new technologies and creating cool pet-projects.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Ukrainian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukrainian" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Russian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjRDUyQjFFIi8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNTMzIiBmaWxsPSIjMDAzNUE2Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjY2IiBmaWxsPSIjRkZGRkZGIi8+PC9zdmc+" alt="Russian" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/English-Spoken-1f6feb?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAgMGw2MCAzME02MCAwbC02MCAzMCIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMCwwTDYwLDMwTTYwLDBMMCwzMCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNiIvPjwvc3ZnPg%3D%3D" alt="English" />
@@ -54,7 +54,7 @@
 <table>
   <tr>
     <td width="1000" valign="top" align="center">
-      <h4 align="center">💻 Languages & Web Frameworks</h4>
+      <h4 align="center">Languages & Web Frameworks</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -68,7 +68,7 @@
       </p>
     </td>
     <td width="1000" valign="top" align="center">
-      <h4 align="center">🤖 AI, LLMs & Telegram Bots</h4>
+      <h4 align="center">AI, LLMs & Telegram Bots</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -83,7 +83,7 @@
 <table>
   <tr>
     <td width="1000" valign="top" align="center">
-      <h4 align="center">🎮 GameDev & Design Tools</h4>
+      <h4 align="center">GameDev & Design Tools</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
         <img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white" />
@@ -94,7 +94,7 @@
       </p>
     </td>
     <td width="1000" valign="top" align="center">
-      <h4 align="center">⚡ My Coding Agents</h4>
+      <h4 align="center">My Coding Agents</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/OpenCode-181717?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
         <img src="https://img.shields.io/badge/FreeBuff-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="FreeBuff" />
@@ -129,14 +129,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">⭐ Featured Projects</h3>
+<h3 align="center">Featured Projects</h3>
 
 <table>
   <tr>
     <!-- Проект 1: MikuGPT0 -->
     <td width="1000" valign="top" align="center">
       <h4>
-        <a href="https://github.com/vlad-abobus/MikuGPT0">🎤 MikuGPT</a>
+        <a href="https://github.com/vlad-abobus/MikuGPT0">MikuGPT</a>
       </h4>
       <p align="center"><i>Your personal AI-powered desktop companion & virtual waifu</i></p>
       <p align="center">
@@ -153,7 +153,7 @@
     <!-- Проект 2: postbyte (AnyWhere) -->
     <td width="1000" valign="top" align="center">
       <h4>
-        <a href="https://github.com/vlad-abobus/postbyte">🌐 AnyWhere (postbyte)</a>
+        <a href="https://github.com/vlad-abobus/postbyte">AnyWhere (postbyte)</a>
       </h4>
       <p align="center"><i>Anonymous imageboard & community web forum inspired by 4chan</i></p>
       <p align="center">
@@ -172,7 +172,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">📊 GitHub Analytics & Activity</h3>
+<h3 align="center">GitHub Analytics & Activity</h3>
 
 <p align="center">
   <img height="185" src="https://github-stats-psiyavushs-projects.vercel.app/api?username=vlad-abobus&show_icons=true&theme=radical&locale=ru" alt="GitHub Stats" />
