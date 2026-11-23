@@ -113,7 +113,7 @@
     <td width="1000" valign="center" align="center">
       <h4>
         <img src="https://cdn.simpleicons.org/lenovo/E2231A" width="80" align="center" alt="Lenovo"/> 
-        &nbsp;LOQ 15 (83JH000JUS)
+        &nbsp;LOQ 15 
       </h4>
       <p align="center">
         <img src="https://img.shields.io/badge/CPU-Intel_Core_i5--13450HX-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br/>
