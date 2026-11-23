@@ -21,7 +21,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- БЛОК О СЕБЕ (БЕЗ ГИФКИ, ЯЗЫКИ СТРОГО В ОДИН РЯД) -->
 <table>
   <tr>
     <td width="2000" valign="center" align="center">
