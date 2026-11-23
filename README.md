@@ -10,18 +10,40 @@
   </a>
 </p>
 
-<!-- Бейджи специальностей -->
+<!-- Бейджи специальностей и счетчик просмотров -->
 <p align="center">
   <img src="https://img.shields.io/badge/Vibecode_ART-ff007f?style=for-the-badge&logo=artstation&logoColor=white" alt="Vibecode ART" />
   <img src="https://img.shields.io/badge/Programming_Student-36BCF7?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Programming Student" />
   <img src="https://img.shields.io/badge/GameDev-8A2BE2?style=for-the-badge&logo=steam&logoColor=white" alt="GameDev" />
   <img src="https://img.shields.io/badge/From-Ukraine-0057B7?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukraine" />
+  <img src="https://komarev.com/ghpvc/?username=vlad-abobus&label=Views&color=fe428e&style=for-the-badge" alt="views" />
 </p>
 
-<!-- Счетчик просмотров профиля -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vlad-abobus&label=Profile%20views&color=fe428e&style=for-the-badge" alt="views" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- БЛОК О СЕБЕ + МЕСТО ДЛЯ ТВОЕЙ ГИФКИ -->
+<table>
+  <tr>
+    <td width="1100" valign="center">
+      <h3>👋 A little bit about me:</h3>
+      <ul>
+        <li>💻 Passionate about <b>Web Development</b>, <b>GameDev</b>, and building smart <b>Telegram Bots</b>.</li>
+        <li>🤖 Experimenting with <b>AI / LLM integrations</b> (OpenAI, Gemini, g4f) and Vibecoding.</li>
+        <li>🚀 Always learning new technologies and creating cool pet-projects.</li>
+      </ul>
+      <p align="left">
+        &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Ukrainian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukrainian" />
+        <img src="https://img.shields.io/badge/Russian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjRDUyQjFFIi8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNTMzIiBmaWxsPSIjMDAzNUE2Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjY2IiBmaWxsPSIjRkZGRkZGIi8+PC9zdmc+" alt="Russian" />
+        <img src="https://img.shields.io/badge/English-Spoken-1f6feb?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAgMGw2MCAzME02MCAwbC02MCAzMCIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMCwwTDYwLDMwTTYwLDBMMCwzMCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNiIvPjwvc3ZnPg%3D%3D" alt="English" />
+      </p>
+    </td>
+    <!-- 👇 МЕСТО ДЛЯ ТВОЕЙ ГИФКИ (замени ссылку в src="..." на свою гифку!) 👇 -->
+    <td width="700" valign="center" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px;" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -35,24 +57,39 @@
   <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,django,flask,react,nodejs,godot,unity,git,github,figma&theme=dark&perline=7" alt="Tech Stack Icons" />
 </p>
 
-<!-- Детальная разбивка стека по категориям + Языки общения -->
+<!-- Маленькая аккуратная табличка №1: Код и Веб + ИИ и Боты -->
 <table>
   <tr>
     <td width="1000" valign="top" align="center">
-      <h4 align="center">💻 Languages & Frameworks</h4>
+      <h4 align="center">💻 Languages & Web Frameworks</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      </p>
-      <p align="center">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       </p>
+    </td>
+    <td width="1000" valign="top" align="center">
+      <h4 align="center">🤖 AI, LLMs & Telegram Bots</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_AI_(Gemini)-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/g4f_(GPT4Free)-10A37F?style=for-the-badge&logo=chatbot&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Маленькая аккуратная табличка №2: GameDev и Инструменты + Coding Agents -->
+<table>
+  <tr>
+    <td width="1000" valign="top" align="center">
       <h4 align="center">🎮 GameDev & Design Tools</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
@@ -64,27 +101,11 @@
       </p>
     </td>
     <td width="1000" valign="top" align="center">
-      <h4 align="center">🤖 AI, LLMs & Telegram Bots</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_AI_(Gemini)-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/g4f_(GPT4Free)-10A37F?style=for-the-badge&logo=chatbot&logoColor=white" />
-      </p>
       <h4 align="center">⚡ My Coding Agents</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/OpenCode-181717?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
         <img src="https://img.shields.io/badge/FreeBuff-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="FreeBuff" />
         <img src="https://img.shields.io/badge/Antigravity-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" />
-      </p>
-      <h4 align="center">🗣 Spoken Languages</h4>
-      <p align="center">
-        <!-- 1. Украинский - Native -->
-        <img src="https://img.shields.io/badge/Ukrainian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1N0I3Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ3MDAiLz48L3N2Zz4=" alt="Ukrainian" />
-        <!-- 2. Русский - Native -->
-        <img src="https://img.shields.io/badge/Russian-Native-2ea44f?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjRDUyQjFFIi8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNTMzIiBmaWxsPSIjMDAzNUE2Ii8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjY2IiBmaWxsPSIjRkZGRkZGIi8+PC9zdmc+" alt="Russian" />
-        <!-- 3. Английский - Spoken -->
-        <img src="https://img.shields.io/badge/English-Spoken-1f6feb?style=for-the-badge&labelColor=22272e&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAgMGw2MCAzME02MCAwbC02MCAzMCIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMCwwTDYwLDMwTTYwLDBMMCwzMCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNiIvPjwvc3ZnPg%3D%3D" alt="English" />
       </p>
     </td>
   </tr>
